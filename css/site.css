@@ -1,0 +1,20 @@
+h1 {
+    color: #4e78b7;
+}
+
+h2 {
+    color: #38aba9
+}
+
+body {
+    background-color: rgb(39, 9, 85);
+}
+
+
+.slide-show img {
+    max-width: 200px;
+}
+
+.hide {
+    display: none;
+}
